@@ -1,0 +1,4 @@
+python manage.py runserver
+code .(code)
+pip install ----==version
+pip freeze
