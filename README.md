@@ -7,8 +7,8 @@ The pharmacy management system is a management system designed to improve the ac
 overcome the possible chances of human made errors and also ensure the quality of medicines being provided from the farmacy.We try to implement a digitalised way as well as a convenient way for the user to save time and also the fatigue from standing long queues for booking, buying medicines, and also checking the availability of a particular doctor.
 
 ## 🛠 Tools
-- front end : HTML,CSS,JS,bootstrap
-- Back end : Flask
+- Front end : HTML,CSS,JS,bootstrap
+- Framework : Flask
 - Data base : sql
 
 ## DFD
